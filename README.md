@@ -3,7 +3,7 @@
 Listo is an ultra-fast, Windows launcher for apps, files, folders, windows settings and even custom commands. Use `Ctrl + Space` to activate the launcher, type what you need to find and Listo will find it instantly. Listo can be used to search important file types only (the default mode) , or you can search all file types if you enable the "Include all file types" option in Listo settings.
 
 **Quick Start**
-1. Download and install [Listo_Setup_1.0.37.exe.](%7B%7BINSTALLER_URL%7D%7D "%7B%7BINSTALLER_URL%7D%7D")
+1. Open [the latest release page](https://github.com/Saif-A/listo/releases/latest) and download `Listo_Setup_1.0.37.exe`.
 2. Launch Listo from the Start Menu if it doesn't start automatically.
 3. press `Ctrl + Space` to show the launcher.
 4. Type part of a file or folder name to find it, then press `Enter` to open it or `Shift + Enter` to open its containing folder.
@@ -34,8 +34,12 @@ Listo is an ultra-fast, Windows launcher for apps, files, folders, windows setti
 **Notes**
 - This repository is the public distribution endpoint for binaries, release notes, and update metadata.
 - The Listo source code is not hosted in this repository.
-- In-app updates read [latest.json to discover the current stable installer.](%7B%7BMANIFEST_URL%7D%7D "%7B%7BMANIFEST_URL%7D%7D")**Links**
-- Public repo: [https://github.com/Saif-A/listo](%7B%7BREPO_URL%7D%7D "%7B%7BREPO_URL%7D%7D")
-- Releases: [https://github.com/Saif-A/listo/releases](%7B%7BRELEASES_URL%7D%7D "%7B%7BRELEASES_URL%7D%7D")
-- Latest manifest: [latest.json](%7B%7BMANIFEST_URL%7D%7D "%7B%7BMANIFEST_URL%7D%7D")
-  Attribution: Saif A.
+- In-app updates read [latest.json](https://raw.githubusercontent.com/Saif-A/listo/main/latest.json) to discover the current stable installer.
+
+**Links**
+- Latest release: [https://github.com/Saif-A/listo/releases/latest](https://github.com/Saif-A/listo/releases/latest)
+- Public repo: [https://github.com/Saif-A/listo](https://github.com/Saif-A/listo)
+- All releases: [https://github.com/Saif-A/listo/releases](https://github.com/Saif-A/listo/releases)
+- Latest manifest: [latest.json](https://raw.githubusercontent.com/Saif-A/listo/main/latest.json)
+
+Attribution: Saif A.
