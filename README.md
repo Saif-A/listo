@@ -6,13 +6,13 @@ By Saif A.
 
 ## Download
 
-- Latest installer: [Listo_Setup_1.0.33.exe](https://github.com/Saif-A/listo/releases/download/v1.0.33/Listo_Setup_1.0.33.exe)
+- Latest installer: [Listo_Setup_1.0.34.exe](https://github.com/Saif-A/listo/releases/download/v1.0.34/Listo_Setup_1.0.34.exe)
 - All public releases: [GitHub Releases](https://github.com/Saif-A/listo/releases)
 
 ## Install And Update
 
 1. Download the latest installer.
-2. Run `Listo_Setup_1.0.33.exe`.
+2. Run `Listo_Setup_1.0.34.exe`.
 3. Launch Listo from the Start Menu.
 4. Future versions can be installed over the top, or accepted from Listo's built-in updater.
 
