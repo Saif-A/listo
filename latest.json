@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.34",
-    "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.34/Listo_Setup_1.0.34.exe",
-    "sha256":  "C132A9426B5B6F93CDF2F903971CF52419FD8FB5BA45AB0EB7AA62A1B0A594E2",
-    "published_at":  "2026-03-27T09:17:11.6385951Z",
-    "release_notes":  "Introducing Listo 1.0.34.",
+    "version":  "1.0.36",
+    "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.36/Listo_Setup_1.0.36.exe",
+    "sha256":  "711E6EC892EC379074924DB0C1B1D7F8F287837EE4DF46805FC13A84CC40B9F4",
+    "published_at":  "2026-03-27T10:42:47.0560183Z",
+    "release_notes":  "Adding ESC to remove user input and support CTRL+A.",
     "repo_url":  "https://github.com/Saif-A/listo"
 }
