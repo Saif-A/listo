@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.33",
-    "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.33/Listo_Setup_1.0.33.exe",
-    "sha256":  "E5BB056D8D62D7C71F547D599F0CDF26536AF5AE2A4E802A67A2FF2196E45D52",
-    "published_at":  "2026-03-27T09:15:39.8424108Z",
-    "release_notes":  "Introducing Listo.",
+    "version":  "1.0.34",
+    "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.34/Listo_Setup_1.0.34.exe",
+    "sha256":  "C132A9426B5B6F93CDF2F903971CF52419FD8FB5BA45AB0EB7AA62A1B0A594E2",
+    "published_at":  "2026-03-27T09:17:11.6385951Z",
+    "release_notes":  "Introducing Listo 1.0.34.",
     "repo_url":  "https://github.com/Saif-A/listo"
 }
