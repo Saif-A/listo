@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.37",
-    "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.37/Listo_Setup_1.0.37.exe",
-    "sha256":  "1A0C3ACB29BEFF28ED7075A767D0BBA5070F4AC6E1A0194917BB1F8202968C53",
-    "published_at":  "2026-03-27T11:54:39.6983057Z",
-    "release_notes":  "Enahncing the Readme file.",
+    "version":  "1.0.41",
+    "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.41/Listo_Setup_1.0.41.exe",
+    "sha256":  "5D6A905F6A494FBA7BCD5330DF262B50D172C43FE9EEED189D8AC0CA8826874B",
+    "published_at":  "2026-04-05T10:16:29.4980808Z",
+    "release_notes":  "Support auto re-index when removing a drive.",
     "repo_url":  "https://github.com/Saif-A/listo"
 }
