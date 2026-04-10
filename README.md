@@ -3,7 +3,7 @@
 Listo is an ultra-fast, Windows launcher for apps, files, folders, windows settings and even custom commands. Use `Ctrl + Space` to activate the launcher, type what you need to find and Listo will find it instantly. Listo can be used to search important file types only (the default mode) , or you can search all file types if you enable the "Include all file types" option in Listo settings.
 
 **Quick Start**
-1. Open [the latest release page](https://github.com/Saif-A/listo/releases/latest) and download `Listo_Setup_1.0.43.exe`.
+1. Open [the latest release page](https://github.com/Saif-A/listo/releases/latest) and download `Listo_Setup_1.0.45.exe`.
 2. Launch Listo from the Start Menu if it doesn't start automatically.
 3. press `Ctrl + Space` to show the launcher.
 4. Type part of a file or folder name to find it, then press `Enter` to open it or `Shift + Enter` to open its containing folder.
