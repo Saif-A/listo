@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.45",
-    "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.45/Listo_Setup_1.0.45.exe",
-    "sha256":  "C25E9E4260C6C81C1DDE7A70013A529051458BB1C19B2E84356FCF7EB16A5308",
-    "published_at":  "2026-04-10T18:19:02.8188833Z",
-    "release_notes":  "Added more paths to the default execlusion list.",
+    "version":  "1.0.47",
+    "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.47/Listo_Setup_1.0.47.exe",
+    "sha256":  "FA409F5B316530FAF753C6A6F6D325114E378E3FAA0A8C04277A30C3554C7442",
+    "published_at":  "2026-04-25T05:40:45.0665428Z",
+    "release_notes":  "reduce memory usage.\r\nadd a standup reminder. disabled by default.\r\nincrease general app responsiveness.",
     "repo_url":  "https://github.com/Saif-A/listo"
 }
