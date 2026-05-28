@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.55",
-    "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.55/Listo_Setup_1.0.55.exe",
-    "sha256":  "3DB255A5023F6BABD0F5C8A310B8BB334BB9764597FB46620F94F0EC0C946F3C",
-    "published_at":  "2026-05-28T14:49:40.7962385Z",
-    "release_notes":  "ِAddining taskbar status monitor to constantly watch upload, download, CPU and Memory readings.",
+    "version":  "1.0.56",
+    "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.56/Listo_Setup_1.0.56.exe",
+    "sha256":  "8701D36E834F743EA06CFFA04003F1EAC3F20BBA0595CF89D6EFA2D5DFF388F9",
+    "published_at":  "2026-05-28T15:11:34.1273639Z",
+    "release_notes":  "Added Status monitor monitor to the taskbar to monitor the PC upload/download , CPU and RAM. You can disable that in the taskbar monitor settings.",
     "repo_url":  "https://github.com/Saif-A/listo"
 }
