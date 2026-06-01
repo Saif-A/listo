@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.59",
-    "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.59/Listo_Setup_1.0.59.exe",
-    "sha256":  "91323939883A67261CDAD6BD0CCDB35D1D4A702667C7C8A2DC2A23FD31BACBF7",
-    "published_at":  "2026-05-31T14:40:10.3616655Z",
-    "release_notes":  "Mini task monitor added , click on the taskbar monitor to show it.",
+    "version":  "1.0.60",
+    "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.60/Listo_Setup_1.0.60.exe",
+    "sha256":  "B82AD00B9B61DCAE66CFEF5DC42F924534A10BA281989AC53B4701FDD153DFC9",
+    "published_at":  "2026-06-01T05:29:22.0598033Z",
+    "release_notes":  "Enhance taskbar monitor rendering.",
     "repo_url":  "https://github.com/Saif-A/listo"
 }
