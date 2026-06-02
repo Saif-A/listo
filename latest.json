@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.61",
-    "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.61/Listo_Setup_1.0.61.exe",
-    "sha256":  "5FBF9AACF9BD3CEB34A74456FDD5AC05BADE0864CB34A595ABAA5D2D5BC407F4",
-    "published_at":  "2026-06-02T11:23:36.3581127Z",
-    "release_notes":  "Enhance taskbar monitor rendering",
+    "version":  "1.0.62",
+    "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.62/Listo_Setup_1.0.62.exe",
+    "sha256":  "55946F3616354E0556CD49E28A2FEC2C97AAF95E6BE9773E32E1E1391CAC34B1",
+    "published_at":  "2026-06-02T11:25:15.2535116Z",
+    "release_notes":  "Enhance taskbar rendering.",
     "repo_url":  "https://github.com/Saif-A/listo"
 }
