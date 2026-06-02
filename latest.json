@@ -2,7 +2,7 @@
     "version":  "1.0.61",
     "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.61/Listo_Setup_1.0.61.exe",
     "sha256":  "5FBF9AACF9BD3CEB34A74456FDD5AC05BADE0864CB34A595ABAA5D2D5BC407F4",
-    "published_at":  "2026-06-02T06:09:48.2699110Z",
-    "release_notes":  "1- Dramatically reduce index time by adding new exclusion rules.\r\n2- Add folders statistics to provide a better insight about heavy paths.\r\n3- Rename some settings tabs.",
+    "published_at":  "2026-06-02T11:23:36.3581127Z",
+    "release_notes":  "Enhance taskbar monitor rendering",
     "repo_url":  "https://github.com/Saif-A/listo"
 }
