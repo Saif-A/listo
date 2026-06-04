@@ -6,7 +6,7 @@ Listo indexes folders plus important file types by default. You can also enable 
 
 ## Quick Start
 
-1. Open [the latest release page](https://github.com/Saif-A/listo/releases/latest) and download `Listo_Setup_1.0.62.exe`.
+1. Open [the latest release page](https://github.com/Saif-A/listo/releases/latest) and download `Listo_Setup_1.0.63.exe`.
 2. Run the installer.
 3. Launch Listo from the Start Menu if it does not start automatically.
 4. Press `Ctrl + Space` or double-tap `Ctrl` to show the launcher.
@@ -74,7 +74,7 @@ Listo indexes folders plus important file types by default. You can also enable 
 
 - Settings tabs for General, Path Boost, Extension Boost, Commands, Excluded paths, File Types, Reindex, Standup, and Taskbar Monitor, with multi-row tab headers when needed.
 - Theme support with Dark, Light, and System options.
-- Default-on transparent taskbar monitor readings with network speed, CPU usage, memory usage, optional CPU frequency, disable, monitored-adapter selection, and primary-taskbar display on multi-monitor setups.
+- Optional transparent taskbar monitor readings with network speed, CPU usage, memory usage, optional CPU frequency, enable/disable, monitored-adapter selection, and primary-taskbar display on multi-monitor setups. New installations leave the taskbar monitor disabled by default.
 - Index Statistics window with extension summaries.
 - Folder distribution view for a selected extension.
 - Exclude folders directly from the distribution workflow.
