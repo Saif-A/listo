@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.63",
-    "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.63/Listo_Setup_1.0.63.exe",
-    "sha256":  "F1F991F04652B91AA333AC750C273F00FD6811F132304B1A2DEEAFD10354B4D7",
-    "published_at":  "2026-06-04T15:15:37.7971389Z",
-    "release_notes":  "bug fix.",
+    "version":  "1.0.64",
+    "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.64/Listo_Setup_1.0.64.exe",
+    "sha256":  "EA57993679D6DBB6C8D64338BA30476EE9D171875CF97A07BD8AB5BA09915D4C",
+    "published_at":  "2026-06-05T11:11:00.0448782Z",
+    "release_notes":  "Bug fix.",
     "repo_url":  "https://github.com/Saif-A/listo"
 }
