@@ -6,7 +6,7 @@ Listo indexes folders plus important file types by default. You can also enable 
 
 ## Quick Start
 
-1. Open [the latest release page](https://github.com/Saif-A/listo/releases/latest) and download `Listo_Setup_1.0.64.exe`.
+1. Open [the latest release page](https://github.com/Saif-A/listo/releases/latest) and download `Listo_Setup_1.0.67.exe`.
 2. Run the installer.
 3. Launch Listo from the Start Menu if it does not start automatically.
 4. Press `Ctrl + Space` or double-tap `Ctrl` to show the launcher.
@@ -19,7 +19,8 @@ Listo indexes folders plus important file types by default. You can also enable 
 
 - Keyboard-first activation with `Ctrl + Space` or double-tap `Ctrl`.
 - Fast native Win32 interface designed for low-latency search.
-- Per-monitor launcher placement that opens on the screen under the current mouse pointer, not the last focused window, and remembers position per display.
+- Per-monitor launcher placement that opens on the screen under the current mouse pointer, not the last focused window, remembers safe position per display, and recenters if saved coordinates would place any part of the search box off-screen.
+- First-run hot-key introduction after initial indexing explains `Ctrl + Space` and can be dismissed permanently.
 - Keyboard navigation for results, filters, command modes, and window hiding.
 - Shell context menu support from search results.
 
@@ -49,7 +50,7 @@ Listo indexes folders plus important file types by default. You can also enable 
 - Visible excluded-path settings with portable environment-variable rules.
 - Exclusion tester that explains which rule would skip a path.
 - `ReadDirectoryChangesW` watchers for live filesystem updates.
-- Periodic full reindex safety net for missed watcher events.
+- Optional periodic full reindex safety net for missed watcher events, disabled by default.
 - Drive-disconnect handling that clears stale indexed results from removed drives.
 - Startup initialization prompt while the first index is being prepared.
 - No administrator privileges required for normal indexing.
@@ -72,9 +73,10 @@ Listo indexes folders plus important file types by default. You can also enable 
 
 ### Settings And Tools
 
-- Settings tabs for General, Path Boost, Extension Boost, Commands, Excluded paths, File Types, Reindex, Standup, and Taskbar Monitor, with multi-row tab headers when needed.
+- Settings tabs for General, Path Boost, Extension Boost, Commands, Excluded paths, File Types, Standup, and Taskbar Monitor.
 - Theme support with Dark, Light, and System options.
-- Optional transparent taskbar monitor readings with network speed, CPU usage, memory usage, optional CPU frequency, enable/disable, monitored-adapter selection, and primary-taskbar display on multi-monitor setups. New installations leave the taskbar monitor disabled by default.
+- General settings include update checks, built-in scoring rules, and auto-reindex timing; auto-reindex defaults to disabled.
+- Optional transparent taskbar monitor readings with network speed, CPU usage, memory usage, optional CPU frequency, enable/disable, monitored-adapter selection, saved-adapter fallback, and primary-taskbar display on multi-monitor setups. New installations leave the taskbar monitor disabled by default.
 - Index Statistics window with extension summaries.
 - Folder distribution view for a selected extension.
 - Exclude folders directly from the distribution workflow.
@@ -97,7 +99,7 @@ Listo indexes folders plus important file types by default. You can also enable 
 - Full-screen greenish reminder overlay on every connected display.
 - Remaining-time counter on each break overlay.
 - Sleep is treated as break time, so waking Windows starts a fresh work interval and hides any active reminder UI.
-- Optional 15-second pre-break notification, disabled by default.
+- Optional 15-second pre-break notification, disabled by default, using the shared Listo notification style.
 - One-time `Delay for 2 minutes` action on the first pre-break notification.
 - Subtle Windows sounds when a break starts and ends.
 
