@@ -6,7 +6,7 @@ Listo indexes folders plus important file types by default. You can also enable 
 
 ## Quick Start
 
-1. Open [the latest release page](https://github.com/Saif-A/listo/releases/latest) and download `Listo_Setup_1.0.67.exe`.
+1. Open [the latest release page](https://github.com/Saif-A/listo/releases/latest) and download `Listo_Setup_1.0.72.exe`.
 2. Run the installer.
 3. Launch Listo from the Start Menu if it does not start automatically.
 4. Press `Ctrl + Space` or double-tap `Ctrl` to show the launcher.
@@ -20,7 +20,7 @@ Listo indexes folders plus important file types by default. You can also enable 
 - Keyboard-first activation with `Ctrl + Space` or double-tap `Ctrl`.
 - Fast native Win32 interface designed for low-latency search.
 - Per-monitor launcher placement that opens on the screen under the current mouse pointer, not the last focused window, remembers safe position per display, and recenters if saved coordinates would place any part of the search box off-screen.
-- First-run hot-key introduction after initial indexing explains `Ctrl + Space` and can be dismissed permanently.
+- First-install bilingual launcher tutorial starts after initial indexing and can be replayed later.
 - Keyboard navigation for results, filters, command modes, and window hiding.
 - Shell context menu support from search results.
 
@@ -40,6 +40,16 @@ Listo indexes folders plus important file types by default. You can also enable 
 - Type `.pdf `, `.docx `, or any extension plus space to filter by file type.
 - Type `ss ` to search shortcuts and app-style entries.
 - Press `Backspace` on empty input to clear the active filter or mode.
+
+### Interactive Tutorial
+
+- Runs automatically once on a genuine first installation after initial indexing.
+- Supports English and Arabic with a language switch at every step.
+- Provides Previous, Next, and Exit controls.
+- Uses black slide details and blue highlighted input prompts at the same font size, with a slower typing cadence for launcher shortcut prefixes.
+- Demonstrates separate application, file, and Windows Settings searches, leading-space folder-only search, drive-only search for any result type, other filters, four calculator expressions, command palette, and keyboard navigation without opening files or executing commands.
+- Includes short promotion slides showing where to enable the optional Standup Timer and Resource Monitor.
+- Can be replayed from the first idle-help item, the Ctrl+Space introduction notification, Help/About, or the tray menu.
 
 ### Indexing
 
@@ -73,15 +83,17 @@ Listo indexes folders plus important file types by default. You can also enable 
 
 ### Settings And Tools
 
-- Settings tabs for General, Path Boost, Extension Boost, Commands, Excluded paths, File Types, Standup, and Taskbar Monitor.
+- Settings tabs for General, Path Boost, Extension Boost, Commands, Excluded paths, File Types, Standup, Taskbar Monitor, and Settings Management.
+- Settings Management actions to export saved settings, validate and import a Listo INI file, or restore all defaults.
+- `Escape` closes Settings through the Cancel path without applying unsaved edits.
 - Theme support with Dark, Light, and System options.
 - General settings include update checks, built-in scoring rules, and auto-reindex timing; auto-reindex defaults to disabled.
-- Optional transparent taskbar monitor readings with network speed, CPU usage, memory usage, optional CPU frequency, enable/disable, monitored-adapter selection, saved-adapter fallback, and primary-taskbar display on multi-monitor setups. New installations leave the taskbar monitor disabled by default.
+- Optional transparent taskbar monitor readings with network speed, CPU usage, memory usage, optional CPU frequency, enable/disable, monitored-adapter selection, saved-adapter fallback, and main-monitor or all-monitor taskbar display. New installations leave the taskbar monitor disabled and scoped to the main monitor by default.
 - Index Statistics window with extension summaries.
 - Folder distribution view for a selected extension.
 - Exclude folders directly from the distribution workflow.
-- Help and About window with shortcuts, usage notes, version, author, and update controls.
-- System tray menu for Show, Rebuild Index, Index Statistics, Settings, Theme, Help/About, and Exit.
+- Help and About window with tutorial replay, shortcuts, usage notes, version, author, and update controls.
+- System tray menu for Show, Rebuild Index, Index Statistics, Settings, Theme, tutorial replay, Help/About, and Exit.
 ### Updates
 
 - Automatic update checks on launch, enabled by default.
@@ -95,12 +107,14 @@ Listo indexes folders plus important file types by default. You can also enable 
 
 - Optional standup reminder, disabled by default.
 - Configurable work interval and break duration.
+- Selectable `Enforced break mode` or non-blocking `Break reminder mode`, with enforced mode as the default.
 - Default-off idle detection option that pauses the normal interval while the computer is idle.
-- Full-screen greenish reminder overlay on every connected display.
+- Enforced mode uses a full-screen greenish reminder overlay on every connected display.
+- Reminder mode shows a Listo notification for 10 seconds without blocking the screen or keyboard.
 - Remaining-time counter on each break overlay.
 - Sleep is treated as break time, so waking Windows starts a fresh work interval and hides any active reminder UI.
-- Optional 15-second pre-break notification, disabled by default, using the shared Listo notification style.
-- One-time `Delay for 2 minutes` action on the first pre-break notification.
+- Optional enforced-mode 15-second pre-break notification, disabled by default, using the shared Listo notification style.
+- One-time `Delay for 2 minutes` action on the first enforced-mode pre-break notification; reminder mode skips the pre-break notice.
 - Subtle Windows sounds when a break starts and ends.
 
 ## Shortcuts
