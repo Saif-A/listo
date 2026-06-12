@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.72",
-    "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.72/Listo_Setup_1.0.72.exe",
-    "sha256":  "6414E8F41FCCA11363F1521D61B64FA08C56DF51C7AC86B90E34789332797512",
-    "published_at":  "2026-06-11T08:31:35.4310859Z",
-    "release_notes":  "Added a new Settings Management page for exporting, importing, and restoring settings, along with improved display options and easier settings navigation. Introduced flexible Standup Reminder modes, including a non-blocking reminder option. Added a bilingual (English/Arabic) interactive tutorial with improved onboarding. Improved Arabic keyboard compatibility and shortcut handling. Also includes stability, performance, and reliability improvements, plus fixes for hotkey introduction preferences and notification handling.",
+    "version":  "1.0.73",
+    "installer_url":  "https://github.com/Saif-A/listo/releases/download/v1.0.73/Listo_Setup_1.0.73.exe",
+    "sha256":  "6455398B48DDEA539E70B3345F3BF1C4464479E869E288BAF57F4EE9221FEB63",
+    "published_at":  "2026-06-12T13:08:35.8279588Z",
+    "release_notes":  "performance update.",
     "repo_url":  "https://github.com/Saif-A/listo"
 }
