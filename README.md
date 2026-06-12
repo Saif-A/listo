@@ -6,7 +6,7 @@ Listo indexes folders plus important file types by default. You can also enable 
 
 ## Quick Start
 
-1. Open [the latest release page](https://github.com/Saif-A/listo/releases/latest) and download `Listo_Setup_1.0.72.exe`.
+1. Open [the latest release page](https://github.com/Saif-A/listo/releases/latest) and download `Listo_Setup_1.0.73.exe`.
 2. Run the installer.
 3. Launch Listo from the Start Menu if it does not start automatically.
 4. Press `Ctrl + Space` or double-tap `Ctrl` to show the launcher.
